@@ -57,11 +57,6 @@ se begin
     end
 endmodule
 
-```
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. r:
-*/
-
-<img width="526" height="396" alt="image" src="https://github.com/user-attachments/assets/34b135e3-e188-4648-baa8-55d8337ca36d" />
 
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1280" height="645" alt="image" src="https://github.com/user-attachments/assets/3fbe8852-a833-4a07-b4a4-5aac933359b7" />
