@@ -80,8 +80,7 @@ RegisterNumber:25015038
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-
-<img width="1055" height="653" alt="image" src="https://github.com/user-attachments/assets/5ce0f4f8-0577-4be5-b665-fb98cbb2da9d" />
+<img width="1280" height="645" alt="image" src="https://github.com/user-attachments/assets/3fbe8852-a833-4a07-b4a4-5aac933359b7" />
 
 
 
